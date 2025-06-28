@@ -9,7 +9,7 @@ RESET="\e[0m"
 
 # URL-адреса для скрипта и файла устройств на GitHub
 OTA_DOWNLOADER_URL="https://raw.githubusercontent.com/mansur54321/realme_ota/refs/heads/main/ota_downloader.sh"
-DEVICES_FILE_URL="https://github.com/mansur54321/realme_ota/blob/main/devices.txt"
+DEVICES_FILE_URL="https://raw.githubusercontent.com/mansur54321/realme_ota/refs/heads/main/devices.txt"
 REALME_OTA_REPO="https://github.com/R0rt1z2/realme-ota.git"
 
 # --- Функции ---
